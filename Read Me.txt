@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 It is a very simple website that I've made to test my CSS ability ..
 Name : Ontas ONline shopping BD
 Number of Page : 1
@@ -11,3 +12,18 @@ and font sizes as well as the icons and buttons
 
 Thanks for viewing...
 Adel Mohd. Sayed
+=======
+It is a very simple website that I've made to test my CSS ability ..
+Name : Ontas ONline shopping BD
+Number of Page : 1
+(Please open the index.html file to view the tiny site)
+#popup menu added for signing Up
+#cool hover effect on navigation menu
+#attractive hover/active states for buttons
+#and also responsive for tablets ans screen size up to 600px
+#all measurements are in REM so that shrinking the screen size will also shrink the images 
+and font sizes as well as the icons and buttons
+
+Thanks for viewing...
+Adel Mohd. Sayed
+>>>>>>> e6a70a5547caa18ec2ee4a86720dc90754c57c3d
