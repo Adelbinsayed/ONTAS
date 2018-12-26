@@ -489,7 +489,9 @@ transform: rotate(0deg) ;
 
 
 /****************************Media Queries******************************************/
-
+@-ms-viewport{
+  width: device-width;
+}
 
 @media screen and (max-width : 42em) 
   {
